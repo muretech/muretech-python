@@ -169,13 +169,13 @@ tests-no-zope = ["cloudpickle", "hypothesis", "mypy (>=1.1.1)", "pympler", "pyte
 
 [[package]]
 name = "auth0-python"
-version = "4.4.2"
+version = "4.5.0"
 description = ""
 optional = false
 python-versions = ">=3.7"
 files = [
-    {file = "auth0_python-4.4.2-py3-none-any.whl", hash = "sha256:de585043c47c47ef17fde116d53d96904b9c709117f82b706e9d2e584df8ce35"},
-    {file = "auth0_python-4.4.2.tar.gz", hash = "sha256:e175b1c741a50d59000702baf656aa3856658967a5439996ba5dc57169f1ba4a"},
+    {file = "auth0_python-4.5.0-py3-none-any.whl", hash = "sha256:63272298f9c6ba36856b9f06243860e180809f1fd27df4a75e2e88fcb1155222"},
+    {file = "auth0_python-4.5.0.tar.gz", hash = "sha256:09650e0cbc14ed38663e5e118b6208a3be41359c5e3fd672ca642258991c02be"},
 ]
 
 [package.dependencies]
