@@ -25,8 +25,8 @@ files = ["*/__init__.py"]
 folders = [{ path = "muretech" }]
 
 [tool.poetry.dependencies]
-python = ">=3.7"
-aiohttp = "^3.8.5"
+python = ">=3.8"
+aiohttp = "^3.8.7"
 pyjwt = "^2.8.0"
 cryptography = "^41.0.3" # pyjwt has a weak dependency on cryptography
 pyopenssl = "^23.2.0"    # pyopenssl is required to work with cryptography 41+
